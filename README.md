@@ -83,10 +83,4 @@ The project uses five datasets:
 - Business-Oriented Data Analysis  
 - Insight Communication  
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository  
-2. Install required dependencies  
-3. Run the Jupyter notebook sequentially  
